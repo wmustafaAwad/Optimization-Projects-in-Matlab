@@ -1,0 +1,10 @@
+==============================
+Matlab function:
+time= 0.015625 seconds
+x_star=[2;6]
+f_star=36.000000
+==============================
+My function:
+time= 0.000000 seconds
+x_star=[2;6]
+f_star=36.000000
