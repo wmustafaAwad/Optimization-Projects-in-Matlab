@@ -1,0 +1,32 @@
+=============
+Fibonacci method:
+-Lambda*:			2.1966197168
+-num_iterations:		13
+-Function_Value:		220.1251588978
+-cputime:			0.7968750000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============
+Golden Section Method:
+-Lambda*:			2.1966011250
+-num_iterations:		10
+-Function_Value:		220.1251374831
+-cputime:			0.7812500000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============
+Quadratic-Interpolation Method:
+-Lambda*:			2.1970632677
+-num_iterations:		2
+-Function_Value:		220.1257271224
+-cputime:			0.6562500000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============
+Cubic-Interpolation Method:
+-Lambda*:			2.1945510801
+-num_iterations:		5
+-Function_Value:		220.1239621623
+-cputime:			0.9687500000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

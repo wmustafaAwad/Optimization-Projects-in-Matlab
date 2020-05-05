@@ -1,0 +1,53 @@
+Rosenbrock's Parabolic Valley function Results:
+
+=============
+Fletcher-Reeves method:
+-Optimal X:					[1.002189703943;1.00439783364933]
+-num_iterations:				358
+-Optimal Function_Value:			0.0000048134
+-cputime:					170.5781250000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============
+Marquardt Method:
+-Optimal X:					[0.995928602638373;0.991861055453896]
+-num_iterations:				28
+-Optimal Function_Value:			0.0000165925
+-cputime:					6.5625000000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============
+BFGS (Quasi-Newton) Method:
+-Optimal X:					[1.00031339066199;1.00064643210515]
+-num_iterations:				20
+-Optimal Function_Value:			0.0000001364
+-cputime:					7.4687500000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Powell's Quartic Function Results:
+
+=============
+Fletcher-Reeves method:
+-Optimal X:					[0.0710357314613162;-0.00705655598757232;0.0317685521281914;0.0323360946385652]
+-num_iterations:				39
+-Optimal Function_Value:			0.0000490964
+-cputime:					12.8750000000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============
+Marquardt Method:
+-Optimal X:					[0.0843965156478263;-0.00843411584163963;0.0418670202569586;0.0420505985721437]
+-num_iterations:				21
+-Optimal Function_Value:			0.0001044909
+-cputime:					6.7812500000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=============
+BFGS (Quasi-Newton) Method:
+-Optimal X:					[0.029272671073421;-0.00288851881191818;0.0164810898167624;0.0164712750744428]
+-num_iterations:				38
+-Optimal Function_Value:			0.0000020711
+-cputime:					21.9843750000 seconds
+=============
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
