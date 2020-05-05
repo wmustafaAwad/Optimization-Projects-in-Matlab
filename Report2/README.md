@@ -6,8 +6,10 @@ Results can be found in:
 * SingleVars_Comparison_results.txt for single variable optimization comparison.
 
 # 2- To reproduce the results, you may run:
-* Compare_Multi_Vars.m : to reproduce  multivariable optimization comparison results. 
-* Compare_Single_Vars.m : to reproduce  singlevariable optimization comparison results. 
+* Compare_Multi_Vars.m : to reproduce  multivariable optimization comparison results. <br>
+In this file you will find the implementation of the following algorithms: Fletcher-Reeves Conjugate Gradient Method, Marquardt Method, and Broyden-Fletcher-Goldfarb-Shanno algorithm.
+* Compare_Single_Vars.m : to reproduce  singlevariable optimization comparison results. <br>
+In this file you will find implementation of the following algorithms: Fibonnaci method, golden section method, quadratic interpolation method, cubic interpolation method.
 
 # 3- Testing:
 The two mentioned  codes are user-friendly. 
