@@ -1,0 +1,16 @@
+
+================
+For Primal-Dual Path-Following:
+.:x_star=[5.99440570207338 0.00512810643273848 0.000466191493885318]
+.:f_star=6.598974
+.:n_iterations=10
+================
+For Long-step Path-Following:
+.:x_star=[5.99058010967066 0.0086348994685617 0.000784990860778337]
+.:f_star=6.598273
+.:n_iterations=9
+================
+For Predictor-Corrector (Mehrotra):
+.:x_star=[5.99999961988634 3.48442896321022e-07 3.16707618420661e-08]
+.:f_star=6.600000
+.:n_iterations=5
